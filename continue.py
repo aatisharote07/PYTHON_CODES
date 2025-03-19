@@ -1,5 +1,5 @@
-for i in range(1,21):
-    if  i%3==0 or i%5==0:
+for i in range(6):
+    if  i%3==0 or i%6==0:
         continue
 
     print(i)
