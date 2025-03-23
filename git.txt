@@ -1,0 +1,8 @@
+#steps to add file to github
+
+git clone "path name"
+git add "file name"
+git commit -m "some message"
+git push origin main
+Run the following command to fetch the latest updates and merge them into your local branch:
+git pull origin main --rebase 
